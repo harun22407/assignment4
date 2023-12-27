@@ -1,0 +1,18 @@
+1- Thought for HTML page
+      Use of bootsrap
+        a- First link the css part and javascript of boostrap in html page.
+        b- Now from the bootsrap, use the navbar as per our choice and modify it according to our need.
+        c- Now make the main part of the calculator. Use the form from boostrap and input type should be number for both input number and drop down for choosing operator sign.
+        d- Add the calculate and reset button.
+        e- Add the result showing area. It should be disabled.
+
+2- Thought for javascript page
+   A- Select all the values and record it in const and creat functions.
+      a- First create all const by using querySelector or getElementsById or getElementsByClassName.
+      b- Now create the reset function. It should clear all the input field when clicked.
+      c- Now create the function that clear the answer when user clicked in the input field.
+
+   B- Calculating part.
+      a- When user clicked on calculate button, it runs the function that first check whenther the input is number or not by using if else statement. If the input is not a number then it should return Invalid number in the answer field.(Try to change the color of the "Invalid number" text so that user get focused on that.)
+      b- If the input is number, then it should calculate as per the user's choice.
+    
