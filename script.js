@@ -58,5 +58,5 @@ document.querySelector(".calculate").addEventListener("click", function () {
             break;
           }
         }
-        answer.style.color = "black;"
+        answer.style.color = "black"
 });
